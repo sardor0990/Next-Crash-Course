@@ -23,7 +23,7 @@ export default function Home() {
 
 
 
-              asdasdasd
+              sardor nima gap 
               width={100}
               height={24}
               priority

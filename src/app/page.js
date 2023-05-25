@@ -23,7 +23,7 @@ export default function Home() {
 
 
 
-              
+              6-chi commit .
               width={100}
               height={24}
               priority

@@ -23,7 +23,7 @@ export default function Home() {
 
 
 
-              sardor nima gap 
+              4-commit qilindi
               width={100}
               height={24}
               priority
